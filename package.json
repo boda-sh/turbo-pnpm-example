@@ -14,13 +14,16 @@
   },
   "devDependencies": {
     "eslint-config-custom": "workspace:*",
-    "prettier": "latest",
-    "turbo": "latest"
+    "prettier": "2.7.0",
+    "turbo": "1.2.16"
   },
   "engines": {
-    "npm": ">=7.0.0",
-    "node": ">=14.0.0"
+    "pnpm": "7.x",
+    "node": "16.x"
   },
   "dependencies": {},
-  "packageManager": "pnpm@7.2.0"
+  "packageManager": "pnpm@7.2.0",
+  "volta": {
+    "node": "16.15.1"
+  }
 }
