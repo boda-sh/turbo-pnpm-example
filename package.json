@@ -27,7 +27,7 @@
     "node": "16.15.1"
   },
   "dependencies": {
-    "inquirer": "8.2.4",
-    "moment": "2.29.3"
+    "dayjs": "1.11.3",
+    "prompts": "2.4.2"
   }
 }
