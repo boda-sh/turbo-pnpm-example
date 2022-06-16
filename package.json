@@ -13,7 +13,7 @@
     "format": "prettier --write \"**/*.{ts,tsx,md}\""
   },
   "devDependencies": {
-    "@colors/colors": "1.5.0",
+    "chalk": "5.0.1",
     "eslint-config-custom": "workspace:*",
     "prettier": "2.7.0",
     "turbo": "1.2.16"
